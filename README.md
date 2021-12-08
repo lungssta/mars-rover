@@ -17,7 +17,8 @@ o Mass: 2kg
 ▪ The terrain geometry is fixed (i.e. it will not be changed from the provided file)
 
 
-** Webots Environment Description**
+**Webots Environment Description**
+
 The task will be carried out in an environment which simulates an area on the surface of Mars. The task 
 will be performed in a simulated 100x100m portion of the Martian landscape. There are 4 high ground 
 points, with 1 in each quadrant.
